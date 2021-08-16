@@ -1,1 +1,2 @@
-# Learn-R
+Course: Learn R<br>
+codecademy.com
