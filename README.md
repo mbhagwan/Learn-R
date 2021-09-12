@@ -1,2 +1,1 @@
-Course: Learn R<br>
-codecademy.com
+**Course:** [Learn R](https://www.codecademy.com/learn/learn-r)
