@@ -1,5 +1,4 @@
-**Course:** [Learn R](https://www.codecademy.com/learn/learn-r)
-
+**Course:** [Learn R](https://www.codecademy.com/learn/learn-r)<br>
 by: Codecademy
 
 **Course Syllabus:**
